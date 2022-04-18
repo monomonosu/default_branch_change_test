@@ -1,0 +1,2 @@
+# default_branch_change_test
+デフォルトのmerge先をmainからdevelopに変更してみるテスト。ついでにmianブランチの削除防止も試す。
